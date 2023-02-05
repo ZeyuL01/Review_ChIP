@@ -19,3 +19,4 @@ Scripts/
 
 All R/Python scripts used for getting rank lists of master transcriptional regulators, may require the package to be installed to run.
 
+All rank lists can be accessed from Dropbox:
